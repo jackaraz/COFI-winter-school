@@ -1,4 +1,4 @@
-# 2nd COFI Advanced Instrumentation and Analysis Techniques School 
+# 2nd COFI Advanced Instrumentation and Analysis Techniques School
 
 Exercise notebooks for [COFI winter school](https://indico.cern.ch/event/1299889/) on QML.
 
